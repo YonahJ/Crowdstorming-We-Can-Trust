@@ -1,0 +1,55 @@
+Id,Group,class,invCnt,greens,reds,controv,most_similar_other_group,most_similar_own_group,winning,comparison,similarity,class_other
+39,A,High Priority,10,10,3,0.488769531,98,44,0,Other,0.923413255,High Priority
+43,A,High Priority,15,14,2,0.03112793,105,111,0,Other,0.898354086,High Priority
+49,A,Controversial,21,14,10,2.92249918,114,174,0,Other,0.887072294,High Priority
+54,A,High Priority,19,18,3,0.013952255,17,138,1,Other,0.963194425,Controversial
+73,A,Controversial,26,12,17,2.899911348,193,56,0,Other,0.912131793,Neutral
+74,A,Controversial,16,10,7,2.670776367,77,75,1,Other,0.869777939,High Priority
+153,A,High Priority,23,28,0,1.08E-07,16,32,1,Other,0.901572941,High Priority
+165,A,High Priority,7,9,0,0.019531323,7,39,1,Other,0.938408353,High Priority
+179,A,Neutral,9,7,3,1.2890625,102,32,0,Other,0.881638573,High Priority
+32,A,Low Priority,38,2,51,8.26E-12,18,179,0,Other,0.859083651,High Priority
+44,A,Controversial,15,8,8,3.338470459,208,39,0,Other,0.906870993,High Priority
+50,A,Low Priority,31,6,34,0.000143,10,200,0,Other,0.858515961,Controversial
+53,A,Neutral,16,11,5,1.133056641,128,163,0,Other,0.865374988,Low Priority
+56,A,Controversial,10,7,5,2.513671875,114,49,0,Other,0.866704204,High Priority
+75,A,High Priority,15,15,5,0.310501099,77,74,0,Other,0.885141498,High Priority
+96,A,High Priority,19,21,2,0.000724,9,154,0,Other,0.862614277,High Priority
+111,A,High Priority,20,23,1,3.58E-05,22,43,1,Other,0.878351882,High Priority
+116,A,High Priority,22,24,1,1.94E-05,22,154,1,Other,0.854330312,High Priority
+120,A,Neutral,21,8,17,0.838069618,21,72,1,Other,0.868967935,Low Priority
+135,A,Neutral,16,12,6,1.345504761,109,165,0,Other,0.860946447,Controversial
+138,A,High Priority,17,17,5,0.144405842,17,54,1,Other,0.862517023,Controversial
+149,A,Neutral,8,3,5,1.96875,77,116,0,Other,0.851667825,High Priority
+150,A,Controversial,11,5,6,2.70703125,23,72,0,Other,0.859559981,Neutral
+154,A,Low Priority,15,3,17,0.022830963,77,116,0,Other,0.857508466,High Priority
+155,A,High Priority,22,26,1,5.63E-06,28,32,1,Other,0.87546352,High Priority
+164,A,Neutral,8,3,7,1.2890625,182,64,0,Other,0.854640987,Low Priority
+174,A,Controversial,20,12,13,4.029506445,114,49,0,Other,0.851266298,High Priority
+194,A,Neutral,3,0,3,0.50000025,76,153,0,Other,0.870104013,Neutral
+200,A,Controversial,10,5,7,2.513671875,8,50,0,Other,0.860037812,Controversial
+7,B,High Priority,15,14,3,0.093383789,165,98,1,Other,0.938408353,High Priority
+17,B,Controversial,14,11,7,2.30657959,54,76,1,Other,0.963194425,High Priority
+21,B,Low Priority,21,9,21,0.413061725,120,23,0,Other,0.868967935,Neutral
+22,B,High Priority,21,24,2,0.000131,111,23,1,Other,0.878351882,High Priority
+77,B,High Priority,16,17,2,0.006523132,75,18,0,Other,0.885141498,High Priority
+109,B,Controversial,13,7,9,2.967529297,135,160,0,Other,0.860946447,Neutral
+114,B,High Priority,18,18,4,0.040112734,49,28,0,Other,0.887072294,Controversial
+8,B,Controversial,19,13,9,2.727665901,200,197,0,Other,0.860037812,Controversial
+9,B,High Priority,13,15,2,0.018676758,96,23,0,Other,0.862614277,High Priority
+10,B,Controversial,18,9,13,2.727665901,50,8,0,Other,0.858515961,Low Priority
+16,B,High Priority,21,26,7,0.016909283,153,18,1,Other,0.901572941,High Priority
+18,B,High Priority,16,17,6,0.288811684,179,16,1,Other,0.86852173,Neutral
+23,B,Neutral,7,3,5,1.96875,150,21,0,Other,0.859559981,Controversial
+28,B,High Priority,22,28,3,6.70E-05,155,23,0,Other,0.87546352,High Priority
+30,B,Controversial,10,5,5,2.70703125,150,23,0,Other,0.855475118,Controversial
+76,B,Neutral,4,2,2,1.875,194,137,0,Other,0.870104013,Neutral
+98,B,High Priority,8,10,1,0.064452771,39,7,0,Other,0.923413255,High Priority
+102,B,High Priority,12,10,3,0.488769531,179,98,0,Other,0.881638573,Neutral
+105,B,High Priority,18,20,1,0.00022,43,98,0,Other,0.898354086,High Priority
+128,B,Low Priority,31,5,35,2.45E-05,53,160,0,Other,0.865374988,Neutral
+160,B,Neutral,24,10,19,1.119264029,75,203,0,Other,0.853221347,High Priority
+169,B,Neutral,30,13,22,1.546815061,200,108,0,Other,0.854946402,Controversial
+182,B,Low Priority,13,3,13,0.145263672,164,76,0,Other,0.854640987,Neutral
+193,B,Neutral,15,5,12,0.84979248,73,23,0,Other,0.912131793,Controversial
+208,B,High Priority,12,12,3,0.222167969,44,76,0,Other,0.906870993,Controversial
